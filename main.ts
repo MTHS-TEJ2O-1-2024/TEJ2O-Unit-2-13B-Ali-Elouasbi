@@ -2,7 +2,7 @@
  *
  * Created by: Ali Elouasbi
  * Created on: Nov 2024
- * This program...
+ * This program turns on a certain amount of neopixel
 */
 
 //variables
